@@ -23,18 +23,18 @@ body {
     --_refl:#f3eeef;
 
     --_bloom:#fcfbf9;
-    --_y1:#fae8a5;
-    --_y2:#fbd608;
+    --_y1:#dba5fa;
+    --_y2:#b608fb;
 
-    --_o1:#ff8f0c;
-    --_o2:#e74702;
-    --_o3:#b32801;
+    --_o1:#a60cff;
+    --_o2:#9f02e7;
+    --_o3:#7b01b3;
 
     --mw1:#d0d5d7;
     
-    --m1:#fdea09;
-    --m2:#e46703;
-    --m3:#ac2a04;
+    --m1:#b009fd;
+    --m2:#9103e4;
+    --m3:#6e04ac;
 }
 
 .topnav {
