@@ -22,19 +22,19 @@ body {
 
     --_refl:#f3eeef;
 
-    --_bloom:#fcfbf9;
-    --_y1:#fae8a5;
-    --_y2:#fbd608;
+    --_bloom:#f9fbfc;
+    --_y1:#a5d8fa;
+    --_y2:#0871fb;
 
-    --_o1:#ff8f0c;
-    --_o2:#e74702;
-    --_o3:#b32801;
+    --_o1:#0c8aff;
+    --_o2:#025ee7;
+    --_o3:#014eb3;
 
     --mw1:#d0d5d7;
     
-    --m1:#fdea09;
-    --m2:#e46703;
-    --m3:#ac2a04;
+    --m1:#098ffd;
+    --m2:#035de4;
+    --m3:#043fac;
 }
 
 .topnav {
